@@ -1,6 +1,6 @@
 # Hi, I'm Jeremy
 
-Data analyst in training with a passion for turning messy data into clear, actionable insights.  
+Data analyst with a passion for turning messy data into clear, actionable insights.  
 I specialize in **SQL, Python, Tableau, Excel,** and **statistics** to drive data-driven decisions — and I'm building a portfolio to prove it.
 
 ---
