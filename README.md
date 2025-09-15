@@ -27,7 +27,7 @@ I work with **SQL, Python, Tableau, Excel,** and **statistics** to uncover trend
   - Removed duplicates, formatted values, handled NULLs  
   - Optimized dataset for analysis  
 
-- [**Layoffs Exploratory Data Analysis (SQL)**](https://github.com/jkselig/layoffs-eda)  
+- [**Layoffs Exploratory Data Analysis (SQL)**](https://github.com/jkselig/layoffs-sql-eda)  
   Performed EDA on the cleaned layoffs dataset.  
   - Analyzed layoffs by company, industry, year, and country  
   - Used aggregations, window functions, and trend analysis  
