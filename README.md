@@ -37,7 +37,7 @@ I work with **SQL, Python, Tableau, Excel,** and **statistics** to uncover trend
   - Cleaned raw sales data and built KPIs  
   - Designed pivot tables, slicers, and a timeline filter  
 
-- [**Airbnb Pricing Dashboard (Tableau)**](https://public.tableau.com/views/AirBnBAveragePriceProject/Dashboard1)  
+- [**Airbnb Pricing Dashboard (Tableau)**]([https://public.tableau.com/views/AirBnBAveragePriceProject/Dashboard1](https://github.com/jkselig/airbnb-average-price-dashboard))  
   Created a Tableau dashboard visualizing Airbnb pricing trends.  
   - Integrated KPIs, filters, and geographic breakdowns  
   - Made insights easily explorable for business users  
