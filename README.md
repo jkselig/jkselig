@@ -1,7 +1,7 @@
 # Hi, I'm Jeremy  
 
 Data Analyst passionate about transforming raw, messy data into clear, actionable insights.  
-I work with **SQL, Python, Tableau, Excel,** and **statistics** to uncover trends, optimize processes, and support decision-making.  
+I work with **SQL, Python, Tableau, Power BI, Excel,** and **statistics** to uncover trends, optimize processes, and support decision-making.  
 
 ---
 
