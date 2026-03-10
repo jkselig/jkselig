@@ -1,47 +1,69 @@
-# Hi, I'm Jeremy  
+# Hi, I'm Jeremy 👋
 
-Data Analyst passionate about transforming raw, messy data into clear, actionable insights.  
-I work with **SQL, Python, Tableau, Power BI, Excel,** and **statistics** to uncover trends, optimize processes, and support decision-making.  
+Data Analyst focused on transforming raw, messy data into clear insights that support better business decisions.
 
----
-
-💻 **Technical Skills**  
-- **SQL:** Advanced querying, joins, CTEs, data cleaning & transformation  
-- **Python:** Data analysis with pandas, automation, and workflow integration  
-- **Tableau:** Interactive dashboards, KPI design, and data storytelling  
-- **Excel:** Business dashboards, KPI modeling, pivot tables, slicers  
-- **Statistics:** Hypothesis testing, trend analysis, analytical problem solving  
+I work with **SQL, Python, Power BI, Tableau, and Excel** to clean data, analyze trends, and build dashboards that help organizations understand and act on their data.
 
 ---
 
-📈 **Portfolio Highlights**  
+## Data & Analytics Skills
 
-- [**Panini Football Card Analytics Dashboard (SQL + Tableau)**](https://github.com/jkselig/panini-dashboard)  
-  End-to-end project combining raw Panini checklist data (2020–2024) with SQL cleaning/normalization and Tableau dashboards.  
-  - Cleaned and deduplicated **1M+ card records** in MySQL  
-  - Built player- and year-level summary tables  
-  - Designed Tableau dashboards for interactive exploration  
+**Data Analysis**
+Exploratory Data Analysis (EDA) • KPI development • Trend analysis • Business insight generation
 
-- [**Layoffs Data Cleaning (SQL)**](https://github.com/jkselig/layoffs-data-cleaning)  
-  Cleaned and standardized a real-world layoffs dataset using MySQL.  
-  - Removed duplicates, formatted values, handled NULLs  
-  - Optimized dataset for analysis  
+**Data Preparation**
+Data cleaning • Data transformation • Data standardization • Handling missing or inconsistent data
 
-- [**Layoffs Exploratory Data Analysis (SQL)**](https://github.com/jkselig/layoffs-sql-eda)  
-  Performed EDA on the cleaned layoffs dataset.  
-  - Analyzed layoffs by company, industry, year, and country  
-  - Used aggregations, window functions, and trend analysis  
+**Data Modeling**
+Dimensional modeling • Star schema design • Fact and dimension tables
 
-- [**Coffee Sales Dashboard (Excel)**](https://github.com/jkselig/coffee-sales-dashboard)  
-  Developed an interactive business dashboard in Excel.  
-  - Cleaned raw sales data and built KPIs  
-  - Designed pivot tables, slicers, and a timeline filter  
+**Automation**
+SQL workflows • Python data pipelines • Reproducible analysis processes
 
-- [**Airbnb Pricing Dashboard (Tableau)**](https://github.com/jkselig/airbnb-average-price-dashboard)  
-  Created a Tableau dashboard visualizing Airbnb pricing trends.  
-  - Integrated KPIs, filters, and geographic breakdowns  
-  - Made insights easily explorable for business users  
+**Visualization & Reporting**
+Power BI dashboards • Tableau dashboards • Executive KPI reporting • Data storytelling
 
 ---
 
-✨ *Currently expanding my portfolio with advanced SQL, Python, and Tableau projects while pursuing opportunities to apply data analytics in business settings.*  
+## Tools & Technologies
+
+**Languages**  
+SQL • Python
+
+**Python Libraries**  
+pandas • NumPy • Matplotlib • Seaborn
+
+**Data Visualization**  
+Power BI • Tableau • Excel
+
+---
+
+## Portfolio Projects
+
+**Superstore Business Intelligence Dashboard (SQL + Power BI)**  
+End-to-end BI project analyzing retail sales performance using a SQL star schema and interactive Power BI dashboards.  
+🔗 https://github.com/jkselig/superstore-bi-analysis
+
+**Panini Football Card Analytics Dashboard (SQL + Tableau)**  
+Cleaned and normalized over **1M card records** and built Tableau dashboards for player and set analysis.  
+🔗 https://github.com/jkselig/panini-dashboard
+
+**Layoffs Data Cleaning (SQL)**  
+Standardized and cleaned a real-world layoffs dataset using SQL.  
+🔗 https://github.com/jkselig/layoffs-data-cleaning
+
+**Layoffs Exploratory Data Analysis (SQL)**  
+Analyzed layoffs trends by company, industry, country, and year using SQL aggregations and window functions.  
+🔗 https://github.com/jkselig/layoffs-sql-eda
+
+**Coffee Sales Dashboard (Excel)**  
+Built an interactive Excel dashboard with KPIs, pivot tables, slicers, and timeline filters.  
+🔗 https://github.com/jkselig/coffee-sales-dashboard
+
+**Airbnb Pricing Dashboard (Tableau)**  
+Visualized pricing trends using Tableau dashboards with geographic and price analysis.  
+🔗 https://github.com/jkselig/airbnb-average-price-dashboard
+
+---
+
+⭐ I enjoy solving real business problems with data and building dashboards that help organizations make better decisions.
