@@ -2,25 +2,25 @@
 
 Data Analyst focused on transforming raw, messy data into clear insights that support better business decisions.
 
-I work with **SQL, Python, Power BI, Tableau, and Excel** to clean data, analyze trends, and build dashboards that help organizations understand and act on their data.
+I work with **SQL, Python, Power BI, Tableau, and Excel** to clean data, analyze trends, automate workflows, and build dashboards that help organizations understand and act on their data.
 
 ---
 
 ## Data & Analytics Skills
 
-**Data Analysis**
+**Data Analysis**  
 Exploratory Data Analysis (EDA) • KPI development • Trend analysis • Business insight generation
 
-**Data Preparation**
+**Data Preparation**  
 Data cleaning • Data transformation • Data standardization • Handling missing or inconsistent data
 
-**Data Modeling**
+**Data Modeling**  
 Dimensional modeling • Star schema design • Fact and dimension tables
 
-**Automation**
+**Automation**  
 SQL workflows • Python data pipelines • Reproducible analysis processes
 
-**Visualization & Reporting**
+**Visualization & Reporting**  
 Power BI dashboards • Tableau dashboards • Executive KPI reporting • Data storytelling
 
 ---
@@ -33,7 +33,7 @@ SQL • Python
 **Python Libraries**  
 pandas • NumPy • Matplotlib • Seaborn
 
-**Data Visualization**  
+**Visualization**  
 Power BI • Tableau • Excel
 
 ---
@@ -49,7 +49,7 @@ Cleaned and normalized over **1M card records** and built Tableau dashboards for
 🔗 https://github.com/jkselig/panini-dashboard
 
 **Layoffs Data Cleaning (SQL)**  
-Standardized and cleaned a real-world layoffs dataset using SQL.  
+Cleaned and standardized a real-world layoffs dataset using SQL.  
 🔗 https://github.com/jkselig/layoffs-data-cleaning
 
 **Layoffs Exploratory Data Analysis (SQL)**  
